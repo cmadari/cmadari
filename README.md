@@ -1,16 +1,21 @@
-### Hi there 👋
+### Hi there 👋, I AM KOUSHAL 
 
-<!--
-**cmadari/cmadari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate about leveraging data to derive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Adept at translating business questions into data-driven solutions.
+<p align="center">
+  <img src="images.jpeg"  width="200" height="200" style="border-radius: 50%;">
+</p>
 
-Here are some ideas to get you started:
+## Skills
+- *Programming Languages:* Python (NumPy, Pandas, Scikit-Learn), R, SQL
+- *Machine Learning:* Regression, Classification, Clustering, Neural Networks
+- *Data Visualization:* Matplotlib, Seaborn, Plotly                                                                                                
+- *Big Data Tools:* Hadoop, Spark
+- *Database Systems:* MySQL, PostgreSQL, MongoDB
+- *Version Control:* Git, GitHub
+- *Tools & Platforms:* Jupyter Notebooks, Google Colab, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- ## Contact
+
+📧 Email: koushalyadavmudike@gmail.com  
+📱 LinkedIn: www.linkedin.com/in/koushal-yadav-mudike
