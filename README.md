@@ -2,7 +2,7 @@
 
 Enthusiastic about utilizing data to extract valuable insights and address intricate challenges. Proficient in machine learning, statistical analysis, and the presentation of data through visualization. Skilled at transforming business inquiries into solutions driven by data.
 <p align="center">
-  <img src="images.jpeg"  width="200" height="200" style="border-radius: 50%;">
+  <img src="data.jpeg"  width="200" height="200" style="border-radius: 50%;">
 </p>
 
 ## Skills
