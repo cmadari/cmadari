@@ -1,6 +1,6 @@
-### Hi there 👋, I AM KOUSHAL 
+### Hi there 👋, I AM CHAITANYA KUMAR
 
-Passionate about leveraging data to derive meaningful insights and solve complex problems. Experienced in machine learning, statistical analysis, and data visualization. Adept at translating business questions into data-driven solutions.
+Enthusiastic about utilizing data to extract valuable insights and address intricate challenges. Proficient in machine learning, statistical analysis, and the presentation of data through visualization. Skilled at transforming business inquiries into solutions driven by data.
 <p align="center">
   <img src="images.jpeg"  width="200" height="200" style="border-radius: 50%;">
 </p>
@@ -17,5 +17,5 @@ Passionate about leveraging data to derive meaningful insights and solve complex
 
 - ## Contact
 
-📧 Email: koushalyadavmudike@gmail.com  
-📱 LinkedIn: www.linkedin.com/in/koushal-yadav-mudike
+📧 Email: madarichaitanya99@gmail.com  
+📱 LinkedIn: www.linkedin.com/in/chaitanya-kumar-madari
