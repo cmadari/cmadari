@@ -17,4 +17,4 @@ Enthusiastic about utilizing data to extract valuable insights and address intri
 - ## Contact
 
 📧 Email: madarichaitanya99@gmail.com  
-📱 LinkedIn: www.linkedin.com/in/chaitanya-kumar-madari
+📱 LinkedIn: https://www.linkedin.com/in/ckumar2470/
